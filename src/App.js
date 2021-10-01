@@ -2,9 +2,11 @@ import './App.css';
 import Header from './components/Header/Header';
 import Shop from './components/Shop/Shop';
 
-function App() {
+function App()
+{
   return (
     <div>
+      <h1>Git Origin Change Complete</h1>
       <Header></Header>
       <Shop></Shop>
     </div>
